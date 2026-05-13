@@ -3,22 +3,20 @@ Algo HelloWorld {
   fonction principale {
     // Creation de la fenetre
     Creer une fenetre de titre HELLO_WORLD_TITLE
-    Mettre la dimension a 300, 300
+    Mettre la dimension a 400, 400
     Configurer la fenetre sur 'exitOnClose'
     // Creation du label de texte
     Creer un label avec du texte centre et contenant le texte HELLO_WORLD_TEXT
     Creer la couleur jaune
     Mettre la couleur jaune sur le label
+    // Label date du jour
+    Creer un label avec la date du jour
+    Ajouter le label date sur la fenetre
     // Couleur de fond
     Creer la couleur cyan pour le fond
     Mettre la couleur cyan sur le fond de la fenetre
-    // Modification C10 en local
     // Finalisation
     Ajouter le label sur la fenetre
     Afficher la fenetre
-// Modification C20 depuis GitHub
   }
 }
-
-C20 : modification depuis GitHub
-Close #1 : couleur de fond en cyan
