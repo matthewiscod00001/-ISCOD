@@ -12,6 +12,7 @@ Algo HelloWorld {
     // Couleur de fond
     Creer la couleur vert pour le fond
     Mettre la couleur vert sur le fond de la fenetre
+    // Modification C10 en local
     // Finalisation
     Ajouter le label sur la fenetre
     Afficher la fenetre
