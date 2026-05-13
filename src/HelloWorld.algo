@@ -10,8 +10,8 @@ Algo HelloWorld {
     Creer la couleur jaune
     Mettre la couleur jaune sur le label
     // Couleur de fond
-    Creer la couleur vert pour le fond
-    Mettre la couleur vert sur le fond de la fenetre
+    Creer la couleur cyan pour le fond
+    Mettre la couleur cyan sur le fond de la fenetre
     // Modification C10 en local
     // Finalisation
     Ajouter le label sur la fenetre
@@ -21,3 +21,4 @@ Algo HelloWorld {
 }
 
 C20 : modification depuis GitHub
+Close #1 : couleur de fond en cyan
